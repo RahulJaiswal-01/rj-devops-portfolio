@@ -14,7 +14,7 @@ import Footer from "./components/Footer"
 import Contact from "./components/Contact"
 import "./styles.css"
 function App() {
- useEffect(() => {
+ useEffect(() => {0
 
   AOS.init({
     duration: 1000,

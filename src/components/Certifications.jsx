@@ -32,7 +32,7 @@ function Certifications() {
           <img src={gcp} alt="Google Cloud"/>
           <h3>Additional Achievements</h3>
           <p>40+ skill badges across Google Cloud and other technical courses</p>
-          <a href="YOUR-CREDLY-LINK" target="_blank" style={{ color: '#red' }}>
+          <a href="https://www.linkedin.com/in/rahul-jaiswal001" target="_blank" style={{ color: '#red' }}>
   Click to view all Certifications
 </a>
         </div>

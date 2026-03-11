@@ -144,7 +144,7 @@ clearInterval(interval);
 setTimeout(() => {
 
 const link = document.createElement("a");
-link.href = "/resume.pdf";
+link.href = "/public/resume.pdf";
 link.download = "Rahul J._Resume.pdf";
 link.click();
 

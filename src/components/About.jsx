@@ -10,7 +10,7 @@ function About() {
           <div className="timeline-dot"></div>
           <div className="timeline-content">
             <h3>2023</h3>
-            <p>Started BTech in Computer Science.</p>
+            <p>Started Bachelor of Technology in Computer Science and began learning programming fundamentals.</p>
           </div>
         </div>
 
@@ -18,7 +18,7 @@ function About() {
           <div className="timeline-dot"></div>
           <div className="timeline-content">
             <h3>2024</h3>
-            <p>Learned React, MySQL and built web projects.</p>
+            <p>Built web applications using React and MySQL while learning modern frontend development.</p>
           </div>
         </div>
 
@@ -26,7 +26,9 @@ function About() {
           <div className="timeline-dot"></div>
           <div className="timeline-content">
             <h3>2025</h3>
-            <p>Exploring DevOps tools like Docker, Kubernetes and monitoring systems.</p>
+           <p>
+Started learning DevOps tools: Docker, Kubernetes, Linux, and monitoring systems.
+</p>
           </div>
         </div>
 
@@ -34,7 +36,9 @@ function About() {
           <div className="timeline-dot"></div>
           <div className="timeline-content">
             <h3>2026</h3>
-            <p>Building portfolio projects and learning cloud infrastructure.</p>
+            <p>
+Started learning DevOps tools: Docker, Kubernetes, Linux, and monitoring systems.
+</p>
           </div>
         </div>
 
